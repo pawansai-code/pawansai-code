@@ -11,7 +11,8 @@ Feel free to check out my repositories and reach out to connect!
 
 Skills & Interests: 
 - Python (currently building expertise)  
-- Full Stack Web Development  
+- Full Stack Web Development
+- Django(web framework) 
 - Machine Learning (basic knowledge)  
 - Pencil Sketch Art  
 
