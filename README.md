@@ -1,6 +1,6 @@
 Hello! I'm PAWANSAI 👋
 
-I am a Computer Science Engineering student with a passion for coding and creativity. I am currently focused on building strong skills in "Python programming" and expanding my knowledge in "Full Stack Development". Alongside coding, I have a keen interest in "Machine Learning" and am gradually exploring its fundamentals to apply them in real projects.
+I am a Computer Science Engineering student with a passion for coding and creativity. I am currently focused on building strong skills in "Python & Java programming" and expanding my knowledge in "Full Stack & MERN stack Development". Alongside coding, I have a keen interest in "Machine Learning" and am gradually exploring them to apply them in real projects.
 
 Apart from technology, I am a dedicated "pencil sketch artist", which helps me bring creativity and attention to detail into everything I do, including my software development work.
 
@@ -10,10 +10,12 @@ Feel free to check out my repositories and reach out to connect!
 
 
 Skills & Interests: 
-- Python (currently building expertise)  
+- Java & Python
 - Full Stack Web Development
+- MERN Stack
 - Django(web framework) 
-- Machine Learning (basic knowledge)  
+- Machine Learning (basic knowledge)
+- UI & UX designing  
 - Pencil Sketch Art  
 
 GMAIL ID : pawangopi2006@gmail.com
