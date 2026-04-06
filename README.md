@@ -13,7 +13,7 @@ Skills & Interests:
 - Java & Python
 - Full Stack Web Development
 - MERN Stack
-- Django(web framework) 
+- Django & Nodejs (web framework) 
 - Machine Learning (basic knowledge)
 - UI & UX designing  
 - Pencil Sketch Art  
