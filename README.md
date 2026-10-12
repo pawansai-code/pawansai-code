@@ -1,6 +1,6 @@
 # Hey there, I'm Pawan Sai G 👋
 
-### 💻 Software Development Engineer | 🤖 AI/ML Developer
+### 💻 Software Development Engineer 
 
 I'm a Computer Science and Engineering student passionate about building **scalable software applications and intelligent AI-powered systems**. I enjoy turning ideas into practical solutions through software engineering, full-stack development, Generative AI, and computer vision.
 
