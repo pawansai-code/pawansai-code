@@ -64,9 +64,9 @@ Currently, I'm exploring advanced **Retrieval-Augmented Generation (RAG), Agenti
 
 📧 **Email:** [pawangopi2006@gmail.com](mailto:pawangopi2006@gmail.com)
 
-💼 **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/)
+💼 **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/in/pawansai-g/)
 
-🌐 **Portfolio:** [Add your portfolio URL](https://github.com/)
+🌐 **Portfolio:** [Add your portfolio URL]()
 
 💻 **GitHub:** Explore my repositories and projects here!
 
