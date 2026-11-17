@@ -143,7 +143,7 @@ I'm a **Computer Science and Engineering student** passionate about building **s
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&left_color=A7C7E7&right_color=7FB5E6&left_text=Visitors" />
+page_id=pawansai-code&left_color=A7C7E7&right_color=7FB5E6&left_text=Visitors" />
 
 <br/>
 
