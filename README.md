@@ -1,75 +1,155 @@
-# Hey there, I'm Pawan Sai G 👋
+<!-- ═══════════ ANIMATED HEADER ═══════════ -->
+<div align="center">
 
-### 💻 Software Development Engineer 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE8FF,50:A7C7E7,100:7FB5E6&height=230&section=header&text=Pawan%20Sai%20G&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58" alt="header" />
 
-I'm a Computer Science and Engineering student passionate about building **scalable software applications and intelligent AI-powered systems**. I enjoy turning ideas into practical solutions through software engineering, full-stack development, Generative AI, and computer vision.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6CA6DC&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+software+%F0%9F%9A%80;Exploring+RAG+%26+Agentic+AI+%F0%9F%A7%A0;Teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F;3+hackathon+wins+and+counting+%F0%9F%8F%86" alt="Typing animation" />
+</a>
 
-Currently, I'm exploring advanced **Retrieval-Augmented Generation (RAG), Agentic AI, and intelligent application development**, while strengthening my software development and problem-solving skills.
+<br/>
 
-- 🔭 Working on **AI-powered applications and autonomous drone systems**
-- 🧠 Exploring **RAG pipelines, LLMs, hybrid search, and computer vision**
-- 🛠️ Building with **Python, Java, React, and FastAPI**
-- 🏆 Participated in 5 hackathons and won 3
-- 💡 Always open to collaborating on innovative software and AI projects
+<img src="https://img.shields.io/badge/CSE%20Student-A7C7E7?style=for-the-badge&labelColor=EAF4FF&color=A7C7E7&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/Hackathons-3%20Wins%20%2F%205-B5D8F7?style=for-the-badge&labelColor=EAF4FF&color=B5D8F7" />
+<img src="https://img.shields.io/badge/CodeChef-200%2B%20Solved-89CFF0?style=for-the-badge&labelColor=EAF4FF&color=89CFF0" />
 
----
+</div>
 
-### 🧰 Tech Stack
+<br/>
+
+## 💙 About Me
+
+> *I turn ideas into practical software, from full-stack apps to intelligent AI systems.*
+
+I'm a **Computer Science and Engineering student** passionate about building **scalable applications and AI-powered systems** through software engineering, full-stack development, Generative AI, and computer vision.
+
+|  |  |
+|:--|:--|
+| 🔭 **Building** | AI-powered applications and autonomous drone systems |
+| 🧠 **Exploring** | RAG pipelines, LLMs, hybrid search, computer vision, Agentic AI |
+| 🛠️ **Working with** | Python, Java, React, FastAPI |
+| 🤝 **Open to** | Collaborating on innovative software and AI projects |
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
 
 **Languages**
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<img src="https://img.shields.io/badge/Python-A7C7E7?style=for-the-badge&logo=python&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/Java-B5D8F7?style=for-the-badge&logo=openjdk&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/JavaScript-CFE8FF?style=for-the-badge&logo=javascript&logoColor=1E3A5F" />
 
 **Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/React-89CFF0?style=for-the-badge&logo=react&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/FastAPI-A7C7E7?style=for-the-badge&logo=fastapi&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/Django-B5D8F7?style=for-the-badge&logo=django&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-CFE8FF?style=for-the-badge&logo=tailwindcss&logoColor=1E3A5F" />
 
 **AI & Machine Learning**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5A45FF?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square)
+<img src="https://img.shields.io/badge/LangChain-89CFF0?style=for-the-badge&logo=langchain&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/RAG-A7C7E7?style=for-the-badge&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/ChromaDB-B5D8F7?style=for-the-badge&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/Computer_Vision-CFE8FF?style=for-the-badge&logoColor=1E3A5F" />
 
 **Databases & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
----
+<img src="https://img.shields.io/badge/PostgreSQL-89CFF0?style=for-the-badge&logo=postgresql&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/Git-A7C7E7?style=for-the-badge&logo=git&logoColor=1E3A5F" />
+<img src="https://img.shields.io/badge/GitHub-B5D8F7?style=for-the-badge&logo=github&logoColor=1E3A5F" />
 
-### 🚀 Featured Projects
+</div>
 
-- **CodeLens**: An AI-powered coding assistant that analyzes GitHub repositories using AST parsing, hybrid search, and RAG to provide context-aware answers with code citations.
-- **Road SOS**: An emergency response application featuring real-time GPS polling and automated messaging to help users during critical situations.
-- **Smart Crop Advisory System**: A smart agriculture application featuring AI assistance, market price tracking, and pest and disease information.
-- **NIDAR RescueSwarm**: A dual-autonomous drone project focused on disaster response, survivor detection, target localization, and medical-kit delivery.
+<br/>
 
----
+## 🚀 Featured Projects
 
-### 📊 Coding & Achievements
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 CodeLens</h3>
+      <p>AI coding assistant that analyzes GitHub repos using <b>AST parsing, hybrid search and RAG</b> to give context-aware answers with code citations.</p>
+      <img src="https://img.shields.io/badge/RAG-A7C7E7?style=flat-square" />
+      <img src="https://img.shields.io/badge/AST-B5D8F7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Hybrid_Search-CFE8FF?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚨 Road SOS</h3>
+      <p>Emergency response app with <b>real-time GPS polling</b> and automated messaging to help users during critical situations.</p>
+      <img src="https://img.shields.io/badge/GPS-A7C7E7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Real--time-B5D8F7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Alerts-CFE8FF?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 Smart Crop Advisory System</h3>
+      <p>Smart agriculture app with <b>AI assistance, market price tracking</b>, and pest and disease information for farmers.</p>
+      <img src="https://img.shields.io/badge/AI-A7C7E7?style=flat-square" />
+      <img src="https://img.shields.io/badge/AgriTech-B5D8F7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Market_Data-CFE8FF?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚁 NIDAR RescueSwarm</h3>
+      <p>Dual autonomous drones for disaster response: <b>survivor detection, target localization</b> and medical-kit delivery.</p>
+      <img src="https://img.shields.io/badge/Drones-A7C7E7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Computer_Vision-B5D8F7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Autonomy-CFE8FF?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-- 🏆 **3 hackathon wins** across 5 hackathon participations
-- 👨‍🏫 Mentored **50+ students** in a UI/UX workshop
-- 💻 Solved **200+ problems on CodeChef**
+<br/>
 
----
+## 📊 Coding & Achievements
 
-### 🤝 Let's Connect
+<div align="center">
 
-📧 **Email:** [pawangopi2006@gmail.com](mailto:pawangopi2006@gmail.com)
+| 🏆 Hackathons | 👨‍🏫 Mentoring | 💻 Problem Solving |
+|:---:|:---:|:---:|
+| **3 wins** out of 5 | **50+ students** in a UI/UX workshop | **200+ problems** on CodeChef |
 
-💼 **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/in/pawansai-g/)
+</div>
 
-🌐 **Portfolio:** [Add your portfolio URL]()
+<!--
+  GitHub stats: replace YOUR_GITHUB_USERNAME below with your actual username.
+-->
 
-💻 **GitHub:** Explore my repositories and projects here!
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=EAF4FF&title_color=5B9BD5&text_color=4A6785&icon_color=7FB5E6&ring_color=7FB5E6&border_radius=16" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=EAF4FF&title_color=5B9BD5&text_color=4A6785&border_radius=16" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=EAF4FF&ring=7FB5E6&fire=5B9BD5&currStreakLabel=4A6785&sideLabels=4A6785&currStreakNum=5B9BD5&sideNums=5B9BD5&dates=7A96B0&border_radius=16" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=EAF4FF&color=5B9BD5&line=7FB5E6&point=A7C7E7&area=true&area_color=CFE8FF&hide_border=true&title_color=5B9BD5" width="95%" />
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:pawangopi2006@gmail.com"><img src="https://img.shields.io/badge/Email-A7C7E7?style=for-the-badge&logo=gmail&logoColor=1E3A5F" /></a>
+<a href="https://www.linkedin.com/in/pawansai-g/"><img src="https://img.shields.io/badge/LinkedIn-B5D8F7?style=for-the-badge&logo=linkedin&logoColor=1E3A5F" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-89CFF0?style=for-the-badge&logo=github&logoColor=1E3A5F" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-CFE8FF?style=for-the-badge&logo=googlechrome&logoColor=1E3A5F" /></a>
+
+<br/><br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&left_color=A7C7E7&right_color=7FB5E6&left_text=Visitors" />
+
+<br/>
 
 *Building software. Exploring intelligence. Solving real-world problems.* 🚀
+
+</div>
+
+<!-- ═══════════ ANIMATED FOOTER ═══════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7FB5E6,50:A7C7E7,100:CFE8FF&height=120&section=footer" alt="footer" />
