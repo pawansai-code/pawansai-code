@@ -138,7 +138,7 @@ I'm a **Computer Science and Engineering student** passionate about building **s
 
 <a href="mailto:pawangopi2006@gmail.com"><img src="https://img.shields.io/badge/Email-A7C7E7?style=for-the-badge&logo=gmail&logoColor=1E3A5F" /></a>
 <a href="https://www.linkedin.com/in/pawansai-g/"><img src="https://img.shields.io/badge/LinkedIn-B5D8F7?style=for-the-badge&logo=linkedin&logoColor=1E3A5F" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-89CFF0?style=for-the-badge&logo=github&logoColor=1E3A5F" /></a>
+<a href="https://github.com/pawansai-code/"><img src="https://img.shields.io/badge/GitHub-89CFF0?style=for-the-badge&logo=github&logoColor=1E3A5F" /></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-CFE8FF?style=for-the-badge&logo=googlechrome&logoColor=1E3A5F" /></a>
 
 <br/><br/>
